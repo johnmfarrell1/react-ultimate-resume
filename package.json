@@ -3,6 +3,7 @@
     "version": "1.3.22",
     "description": "Developer profile for W3D",
     "main": "lib/index.js",
+    "homepage" : "https://johnmfarrell1.github.io/react-ultimate-resume/",
     "scripts": {
         "start": "touch .env.local && sh -ac 'sh .env.${NODE_ENV:-local}; PORT=${PORT:-3000} EXTEND_ESLINT=true BROWSER=none react-scripts start'",
         "dev": "yarn start",
