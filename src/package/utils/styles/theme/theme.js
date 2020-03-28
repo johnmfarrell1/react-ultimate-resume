@@ -25,7 +25,7 @@ export const DEFAULT_THEME = Object.freeze({
     components: {
         banner: {
             overlayColor: 'primary',
-            imageSource: 'https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp'
+            imageSource: 'https://ifiwere.me/assets/images/m50_flyover.jpg'
         },
         cards: {
             height: 470,
